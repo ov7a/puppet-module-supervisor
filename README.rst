@@ -1,3 +1,9 @@
+This was actually a fork of @plathrop repository. Unfortunately, he deleted his fork. 
+
+The original README is listed below.
+
+====================================
+
 Puppet module for configuring the 'supervisor' daemon control
 utility. Currently tested on Debian, Ubuntu, and Fedora.
 
